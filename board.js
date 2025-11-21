@@ -231,4 +231,3 @@ export class Board {
     throw RangeError(`illegal player ${player}`);
   }
 }
-Erklären

@@ -1,0 +1,18 @@
+Entscheidungstabelle 
+
+B1: Game is finished
+B2: Stones are equal
+B3: Player 1 has more stones
+B4: Player 2 has more stones
+
+Results 
+R1: The game is still running
+R2: Draw
+R3: Victory
+
+Tabelle:
+Case   B1: finishe  B2: equa    B3: p1 mor    B4: p2 more   Result
+1	    F	        -	        -	        -	            R1
+2	    T	        T	        F	        F	            R2
+3	    T	        F	        T	        F	            R2
+4	    T	        F	        F	        T	            R2

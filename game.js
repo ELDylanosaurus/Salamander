@@ -136,4 +136,3 @@ function render(fields) {
     }, 1250);
   }
 }
-Erklären
